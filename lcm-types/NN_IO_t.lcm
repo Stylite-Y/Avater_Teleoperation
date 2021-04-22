@@ -1,0 +1,5 @@
+struct NN_IO_t
+{
+    float input[50];
+    float output[12];
+}

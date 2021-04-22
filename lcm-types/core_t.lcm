@@ -1,0 +1,11 @@
+struct core_t
+{
+    double phase[2];
+    double cmd[3];
+    double q[12];
+    double dq[12];
+    double z;
+    double v[3];
+    double z_axis[3];
+    double omega[3];
+}

@@ -1,0 +1,4 @@
+struct command_phase_lcmt {
+    float phase[4];
+    float command[3];
+}

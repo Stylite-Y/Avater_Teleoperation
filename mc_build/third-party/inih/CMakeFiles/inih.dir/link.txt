@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -no-pie -ggdb -Wall         -Wextra -Wcast-align -Wdisabled-optimization -Wformat=2         -Winit-self -Wmissing-include-dirs -Woverloaded-virtual         -Wsign-promo -Werror -faligned-new  -shared -Wl,-soname,libinih.so -o libinih.so CMakeFiles/inih.dir/ini.c.o CMakeFiles/inih.dir/INIReader.cpp.o 

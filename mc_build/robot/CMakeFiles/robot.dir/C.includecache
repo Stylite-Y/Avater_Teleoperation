@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../robot/include/rt/MedianFilter.h
+
+/home/stylite-y/Documents/Master/Avater_Teleoperation/robot/src/rt/MedianFilter.c
+rt/MedianFilter.h
+/home/stylite-y/Documents/Master/Avater_Teleoperation/robot/src/rt/rt/MedianFilter.h
+

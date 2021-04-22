@@ -1,0 +1,5 @@
+-I/home/stylite-y/Documents/Master/Avater_Teleoperation/sim
+-I/home/stylite-y/Documents/Master/Avater_Teleoperation/mc_build/sim
+-o
+/home/stylite-y/Documents/Master/Avater_Teleoperation/mc_build/sim/include/moc_SimControlPanel.cpp
+/home/stylite-y/Documents/Master/Avater_Teleoperation/sim/include/SimControlPanel.h

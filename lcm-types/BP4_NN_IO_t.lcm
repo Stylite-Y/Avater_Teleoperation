@@ -1,0 +1,5 @@
+struct BP4_NN_IO_t
+{
+    float input[35];
+    float output[12];
+}
